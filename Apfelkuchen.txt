@@ -4,6 +4,7 @@ Mein Apfelkuchenrezept mit Zimt
 Mehl
 Eier
 Zucker
+Butter
 
 Zimt
 Pfeffer
